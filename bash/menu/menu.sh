@@ -7,7 +7,7 @@
 #       edit the "menu-config.sh" file.
 
 # text
-titleText="$0 v1.0.0"
+titleText="$0 v1.0.1"
 listText="Items"
 okText="OK"
 editText="Customize..."

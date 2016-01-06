@@ -35,11 +35,11 @@ function onAction()
 items=(
 
 "Electro Swing"
-"http://www.di.fm/mp3/electroswing.pls"
+"http://electroswing-radio.com/electro_swing_revolution_radio.m3u"
 ""
 
-"Goa-Psy Trance"
-"http://www.di.fm/mp3/goapsy.pls"
-"...a voyage out of this world!"
+"Your Item"
+"Your URL"
+"Optional description visible in the status bar"
 
 )
